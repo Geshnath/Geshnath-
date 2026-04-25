@@ -1,4 +1,4 @@
- Geshnath-
+ Geshnath
  Hi 👋 I'm Geshnath
 
 💻 Aspiring Software Developer
